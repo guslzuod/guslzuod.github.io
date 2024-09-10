@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://guslzuod.github.io/sitemap/sitemap.txt
